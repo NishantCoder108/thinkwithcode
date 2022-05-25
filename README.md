@@ -42,7 +42,7 @@
 
 
 
-### Projects
+<!-- ### Projects -->
 
 <!-- ![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=thinkwithcode&repo=crypto-tracker ) -->
 <!-- ![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=thinkwithcode&repo=react-blog ) -->
