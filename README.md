@@ -1,6 +1,6 @@
 
-<h1 align="center">Hi 👋, I'm Nishant</h1>
-<h3 align="center">A very passionate developer & Fitness Enthusiast.</h3>
+<h1 align="center">Hi 👋, I'm Nishant as a Frontend Developer</h1>
+<h3 align="center">A very passionate about Technology.</h3>
 
 - 🔭 I’m currently working on Frontend .
 - 🌱 I’m currently learning Reactjs , Redux
@@ -45,10 +45,10 @@
 ### Projects
 
 ![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=thinkwithcode&repo=crypto-tracker )
-![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=thinkwithcode&repo=react-blog )
+<!-- ![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=thinkwithcode&repo=react-blog ) -->
 ![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=thinkwithcode&repo=todoListApp )
-![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=thinkwithcode&repo=polarishapp)
-![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=thinkwithcode&repo=textutils )
+<!-- ![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=thinkwithcode&repo=polarishapp) -->
+<!-- ![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=thinkwithcode&repo=textutils ) -->
 ### Social
 
 
