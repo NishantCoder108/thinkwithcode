@@ -1,41 +1,25 @@
 
-<h1 align="center">Hi 👋, I'm Nishant as a Frontend Developer</h1>
+<h1 align="center">Hi 👋, I'm Nishant as a JavaScript Developer</h1>
 <h3 align="center">A very passionate about Technology.</h3>
 
-- 🔭 I’m currently working on Frontend .
-- 🌱 I’m currently learning Reactjs , Redux
-- 💬 Ask me about JavaScript , CSS , React , Redux 
-
-
-
-
-
-
-
-
-
-### About myself
-
-
-
-- 🌱&nbsp;&nbsp;I’m currently learning **tons of things about developer**
-
-
+- 🔭 I am currently working on a technology that is using JavaScript language.
+- 🌱 I'm currently learning a lot of JS-related stuff, so that one day, I'll be in 1% of the JS community all over the world.
 
 
 
 ### Tech stack
 
-* HTML
-* CSS
-* JavaScript
-* BootStrap
-* React js
-* Express
-* Nodejs
-* Redux
-* Git 
-* Github
+* HTML * CSS * JavaScript * BootStrap  * React js  * Express  * Nodejs  * Redux * Git  * Github  *Material-Ui
+
+
+
+
+
+
+
+
+
+
 
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=thinkwithcode)
