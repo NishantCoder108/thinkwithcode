@@ -9,7 +9,7 @@
 
 ### Tech stack
 
-* HTML * CSS * JavaScript * BootStrap  * React js  * Express  * Nodejs  * Redux * Git  * Github  *Material-Ui
+*HTML* &nbsp;   *CSS* &nbsp;   *JavaScript*  &nbsp;  *BootStrap* &nbsp;  *React js*  &nbsp;  *Express*   &nbsp;  *Nodejs*  &nbsp;  *Redux*  &nbsp;  *Git*  &nbsp;  *Github*  &nbsp;   *Material-Ui* &nbsp;  *Many More...*
 
 
 
