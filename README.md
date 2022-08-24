@@ -44,8 +44,8 @@
 
 <!-- ### Projects -->
 
-<!-- ![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=thinkwithcode&repo=crypto-tracker ) -->
-<!-- ![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=thinkwithcode&repo=react-blog ) -->
+ ![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=thinkwithcode&repo=crypto-tracker )
+ ![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=thinkwithcode&repo=netflix-clone )
 <!-- ![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=thinkwithcode&repo=todoListApp ) -->
 <!-- ![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=thinkwithcode&repo=polarishapp) -->
 <!-- ![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=thinkwithcode&repo=textutils ) -->
