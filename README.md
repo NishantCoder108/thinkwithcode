@@ -1,5 +1,5 @@
 
-<h1 align="center">Hi 👋, I'm Nishant as a JavaScript Developer</h1>
+<h1 align="center">Hi 👋, I'm Nishant as a JavaScript Engineer</h1>
 <h3 align="center">A very passionate about Technology.</h3>
 
 - 🔭 I am currently working on a technology that is using JavaScript language.
